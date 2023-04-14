@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="aula.css">
+
+</head>
+<body>
+
+    <h1 class="es1"> imperio</h1>
+        
+
+    <header class="es2">
+<img id="foto1" src="grenn.jpg">
+<ul>
+<li>quem somos?</li>
+
+<p id="es2">O G.R.T.O. Império Alviverde é um patrimônio do Coritiba Foot Ball Club, a maior torcida organizada do Sul e uma das mais inovadoras e bonitas do Brasil, sendo referência quando se fala em show na arquibancada.
+
+    Fundada em 1977 por um grupo de amigos liderados por Luizão Stellfeld, atualmente é presidida por Juliano Rodrigues (Lano). Independente e com sede/loja localizada na Rua Ubaldino do Amaral, ao lado do Estádio Major Antônio Couto Pereira, desenvolve atividades com o objetivo de fortalecer a instituição Coritiba em todos os aspectos.
+    
+    Por meio da força e vibração que vêm da arquibancada, proporciona momentos inesquecíveis para torcedores e jogadores, que vão muito além de uma partida de futebol e, não raramente, ganham destaque em âmbito mundial.
+    
+    O objetivo da Império Alviverde é levar as cores do Coritiba mundo afora, angariar novos torcedores, proporcionar um entretenimento diferenciado na arquibancada e incentivar sempre nossos jogadores, sem deixar de fiscalizar, cobrar e zelar pelo Clube sempre que necessário.
+    
+    Na Império, não basta ser torcedor. É preciso participar, acompanhar, ir ao estádio e vibrar muito com o grito que surge ao som da bateria. Muito antes do apito inicial, os membros da Império já trabalham para levar bandeiras, faixas, instrumentos e preparar shows pirotécnicos que, além de proporcionarem um incentivo extra, agregam muito valor ao evento. E após o apito final, recomeça o trabalho; agora, para retirada e guarda dos materiais.
+    
+    No dia a dia são realizados ensaios de bateria, ações sociais, reuniões, manutenção de materiais e organizadas caravanas para acompanhar o Coritiba onde quer que ele esteja.
+    
+    Apesar do preconceito que muitos têm quanto às torcidas organizadas, a Império Alviverde busca fazer a sua parte em todos os aspectos, com parcerias com o Ministério Público, agências de Segurança Pública, diretoria do Coritiba e outras instituições, realizando ações preventivas, ajudando na identificação de eventuais infratores, promovendo ações de combate à violência e ao uso de drogas, além dos mais variados tipos de ações sociais.
+    
+    A Império Alviverde é uma reunião de apaixonados pelo Coritiba Foot Ball Club, que demonstram seu amor incondicional por meio do apoio irrestrito ao Clube, fazendo as cores verde e branca imperarem por onde forem.</p>
+  
+<li>nosso proposito</li>
+    <p> ajudar os joagores do coritiba nos jogos, cantando, incentivando e encendiando a nossa casa, para fazer um bonito espetaculo</p>
+</ul>
+</header>
+
+
+</body>
+</html>
